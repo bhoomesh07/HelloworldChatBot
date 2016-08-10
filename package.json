@@ -1,0 +1,27 @@
+{
+  "name": "helloworldchatbot",
+  "version": "1.0.0",
+  "description": "Build a bot in Node.js on Microsoft Bot Framework",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahSays/BotWorks.git"
+  },
+  "author": "Sarah Sexton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahSays/BotWorks/issues"
+  },
+  "homepage": "https://github.com/SarahSays/BotWorks#readme",
+  "dependencies": {
+    "botbuilder": "^1.0.0",
+    "restify": "^4.1.0"
+  },
+  "keywords": [
+    "chatbot"
+  ]
+}
